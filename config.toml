@@ -1,6 +1,7 @@
-baseURL = "http://localhost"
 title = "AI4Bharat IndicNLP"
 theme = "geekdoc"
+
+relativeURLs = true
 
 # Geekdoc required configuration
 pygmentsUseClasses = true

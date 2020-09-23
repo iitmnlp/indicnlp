@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/corpora/</loc>
+    <loc>/corpora/</loc>
     <lastmod>2020-09-23T14:08:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/indicft/</loc>
+    <loc>/indicft/</loc>
     <lastmod>2020-09-22T18:07:51+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/indic-glue/</loc>
-    <lastmod>2020-09-23T14:24:58+05:30</lastmod>
+    <loc>/indic-glue/</loc>
+    <lastmod>2020-09-23T14:28:41+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/indic-bert/</loc>
+    <loc>/indic-bert/</loc>
     <lastmod>2020-09-22T17:51:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/publications/</loc>
+    <loc>/publications/</loc>
     <lastmod>2020-09-22T16:22:12+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/aboutus/</loc>
+    <loc>/aboutus/</loc>
     <lastmod>2020-09-22T17:22:00+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>/</loc>
     <lastmod>2020-09-21T15:11:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost/home/</loc>
+    <loc>/home/</loc>
     <lastmod>2020-09-23T00:02:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/pages/</loc>
-    <lastmod>2020-09-23T14:24:58+05:30</lastmod>
+    <loc>/pages/</loc>
+    <lastmod>2020-09-23T14:28:41+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/resources/</loc>
+    <loc>/resources/</loc>
     <lastmod>2020-09-21T15:11:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
